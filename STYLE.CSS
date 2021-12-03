@@ -1,0 +1,58 @@
+body  
+{  
+    margin: 0;  
+    padding: 25PX;  
+    background-color:#F5F8FA;  
+    font-family: 'Arial';  
+}   
+header{  
+    margin: -25px -5px 25px -24px ;  
+    font-family: 'Arial';  
+    color: #c26161;
+    text-align: left;
+    font-size: 35PX;
+    background-color: rgb(142, 207, 207);
+    width: 2000px;
+} 
+svg{
+    border-radius: 40px;
+} 
+#chart_div1{  
+    width: 600px;
+    height: 300px;
+    border-radius: 40px;
+    border: 2px solid ;
+    margin: 2px 0 5px 8px;
+}  
+#chart_div2{  
+    width: 600px;
+    height: 300px;
+    margin: -311px 0 0 630px;
+    border: 2px solid ;
+    border-radius: 40px;
+}
+
+#chart_div3{  
+    width: 600px;
+    height: 300px;
+    border: 2px solid ;
+   margin: 25px 0 5px 8px;
+   border-radius: 40px;
+}  
+#chart_div4{ 
+    width: 600px;
+    height: 300px;
+    margin: -313px 0 0 630px;
+    border: 2px solid ;
+    border-radius: 40px;
+}  
+footer{
+    margin: 25px -38px -33px -26px;  
+    padding: 25PX;  
+    font-family: 'Arial';  
+    color: #b35757;
+    text-align: right;
+    font-size: 25PX;
+    background-color: rgb(151, 229, 229);
+    
+}
